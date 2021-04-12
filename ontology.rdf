@@ -2,7 +2,7 @@
 <rdf:RDF
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-         xml:base="http://www.github.com/InHuKim/RDF/main/ontology.rdf/">
+         xml:base="http://www.github.com/InHuKim/RDF/blob/main/ontology.rdf/">
 
     <rdfs:Class rdf:ID="Book">
         <rdfs:subClassOf rdf:resource="http://w3.org/2000/01/rdf-schema#Resource"/>
